@@ -147,4 +147,4 @@ def delete(request,id):
         obj_data.delete()
         return redirect('/index/')
 
-    return render(request,"delete.html",locals())
+    return render(request,"delasdasdaete.html",locals())
